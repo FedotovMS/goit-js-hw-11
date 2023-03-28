@@ -1,0 +1,22 @@
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.load-more {
+  display: block;
+  text-align: center;
+  width: 130px;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.is-hidden {
+  display: none;
+}
